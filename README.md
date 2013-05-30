@@ -3,8 +3,9 @@ click2promote.me
 
 Click2Promote Website
 
-Bojan Seirovski
-Andries Hannaart
+by Bojan Seirovski
+
+Initial HTML/CSS by Andries Hannaart
 
 Result of the request from Bojan, to create some HTML/CSS for the Click2Promote.me website.
 

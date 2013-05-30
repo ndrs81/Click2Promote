@@ -1,4 +1,3 @@
-===================
 click2promote.me
 ===================
 
@@ -11,5 +10,3 @@ Result of the request from Bojan, to create some HTML/CSS for the Click2Promote.
 
 Licensed under the Apache License, Version 2.0
 http://www.apache.org/licenses/LICENSE-2.0
-
-===================
